@@ -16,7 +16,7 @@ header {
 
 
 .cabecalho-imagem{
-width: 15%;
+width: 30%;
 
 }
 .cabecalho-lista-item{
@@ -28,6 +28,10 @@ width: 15%;
 .IMG1{
     width: 40%;
     margin: 0px 100px;
+}
+.IMG2{
+    width: 10%;
+    margin: 50px 850px;
 }
 
 .escola{
@@ -65,7 +69,7 @@ body {
 
 .estudante-icone{
     width: 24px;
-    padding: 4px 8px;
+    padding: 8px 8px;
 }
 
 .estudante-div{
@@ -80,11 +84,11 @@ body {
 
 .estudante-titulo{
     text-align: center;
-    padding: 24px 0;
+    padding: 15px 0;
 }
 
 .rodape{
-    background-color: black;
+    background-color: rgb(16, 77, 1);
     text-align: center;
 }
 
